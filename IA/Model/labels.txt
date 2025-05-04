@@ -1,0 +1,8 @@
+0 Creme de Leite
+1 Sabonete
+2 Fosforo
+3 Gelatina
+4 Extrato de Tomate
+5 Pasta de Dente
+6 Toddynho
+7 Mesa
