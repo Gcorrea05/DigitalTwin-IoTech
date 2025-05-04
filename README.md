@@ -5,3 +5,14 @@ Link para o Fluxograma do Projeto: https://lucid.app/lucidchart/3b2698b7-4e43-45
 
 
 Link para o Fluxograma Físico: https://lucid.app/lucidchart/a58bc41d-7e4f-4f0a-b37d-e4a7a886633f/edit?invitationId=inv_a40405c6-2cf0-40fb-b692-26d153073e22
+
+--------------------------------------------------------------------
+Funcionamento do requirements.txt:
+
+Executar após clonar para instalar dependencias da IA
+
+python -m venv venv
+source venv/bin/activate    # Linux/macOS
+venv\Scripts\activate.bat   # Windows
+
+pip install -r requirements.txt
